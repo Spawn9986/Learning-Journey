@@ -1,0 +1,16 @@
+Day 1 (April 10, 2023)
+
+I will start fresh today on being consistent and start from scratch in my learning.
+I will map out my learning based on Javascript and FE, BE, databases, deployment, etc
+
+Start with HTML and CSS. HTML is for content whereas CSS is for styling. CSS can be 
+embedded within the HTML page or loaded using a tag.
+
+HTML element conists of an opening and closing tag i.e., <p></p>. HTML can have unique
+identifyers that dont show in the content and go by attribute and values.
+
+Anything in HTML between <!-- and --> is an HTML comment.
+
+### ----- Questions ---- ####
+How do I embed CSS styling into an HTML element as opposed to importing a CSS file?
+Why do some elements written differently (void elements) such as img tags etc?
