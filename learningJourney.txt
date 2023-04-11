@@ -1,3 +1,10 @@
+Day 2, April 11, 2023
+Going through mdn web development track: 
+
+https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
+
+starting today at --> Getting Started with the web - Javascript basics
+
 Day 1 (April 10, 2023)
 
 I will start fresh today on being consistent and start from scratch in my learning.
