@@ -11,6 +11,18 @@ identifyers that dont show in the content and go by attribute and values.
 
 Anything in HTML between <!-- and --> is an HTML comment.
 
+Reviewed HTML basics and attempted to recreate https://www.rei.com/learn/expert-advice/backpacking-beginners.html
+
+CSS Basics:
+
+selector {
+    Property: Value
+}
+
+when selecting IDs use #; when selcting classes use .
+
 ### ----- Questions ---- ####
 How do I embed CSS styling into an HTML element as opposed to importing a CSS file?
 Why do some elements written differently (void elements) such as img tags etc?
+When to use class vs ID?
+    ID = unique vs class = multiple instances of the same
