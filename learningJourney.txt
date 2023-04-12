@@ -1,3 +1,7 @@
+Day 3, April 12 2023
+
+Started @: Getting Started with the web - How the web works
+
 Day 2, April 11, 2023
 Going through mdn web development track: 
 
