@@ -4,6 +4,12 @@ Going through mdn web development track:
 https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
 
 starting today at --> Getting Started with the web - Javascript basics
+Stopped at --> Getting Started with the web - How the web works 
+
+created a Github portfolio page to begin building using Github pages 
+(I was previosuly using my Wordpress site for this)
+
+
 
 Day 1 (April 10, 2023)
 
