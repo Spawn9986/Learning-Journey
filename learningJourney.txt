@@ -1,6 +1,7 @@
 Day 3, April 12 2023
 
-Started @: Getting Started with the web - How the web works
+Started @: Getting Started with the web - How the web works (MDN Web Dev Course)
+Ended @: HTML - Stucturing the web - creating hyperlinks (MDN Web Dev Course)
 
 Day 2, April 11, 2023
 Going through mdn web development track: 
