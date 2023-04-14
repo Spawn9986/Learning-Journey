@@ -1,7 +1,9 @@
 Day 4, April 13 2023
 
-Started @: HTML - Stucturing the web - creating hyperlinks (MDN Web Dev Course)
-Ended @: 
+Started @: HTML - Stucturing the web - Introduction to HTML - Creating hyperlinks (MDN Web Dev Course)
+Ended @: HTML - Structuring the web - Multimedia and embedding
+
+Also trying to become more competent on chrome dev tools
 
 Day 3, April 12 2023
 
