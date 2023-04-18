@@ -6,6 +6,7 @@ The HTML tags covered were (which is 99% of what you will probably ever need):
 
 <script>
 <link rel="" type="" href="">
+<style> (In the past was used in the header but not so much any more ... now we just link in our css files or occasionally use in line styling (the 3rd way))
 <h1-h6>
 <p>
 <strong>
