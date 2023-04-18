@@ -7,6 +7,13 @@
     <title>Register</title>
 </head>
 <body>
+    <header>
+        <h1>My Header</h1>
+    </header>
+    <nav>
+        <a href="https://www.google.com" target="_blank">Google</a>
+    </nav><br>
+    <!-- This is a comment -->
     <form>
         First Name: <input type="text" name="firstname"><br>
         Last Name: <input type="text" name="lastname"><br>
@@ -14,18 +21,21 @@
         Password: <input type="password" minlength="5" name="password"><br>
         Birthday: <input type="date" name="birthday"><br>
         Gender: <br>
-            <input type="radio" name="gender">Male<br>
-            <input type="radio" name="gender">Female<br>
+            <input type="radio" name="gender" value="Male">Male<br>
+            <input type="radio" name="gender" value="Female">Female<br>
         Pets: <br>
             <input type="checkbox" name="cat"> Cat <br>
             <input type="checkbox" name="dog"> Dog <br>
         Cars: <br>
-            <select>
+            <select name="cars">
                 <option value="Volvo" name="volvo">Volvo</option>
                 <option value="Audi" name="audi">Audi</option>
             </select><br>
         <input type="submit" value="Register!">
         <input type="reset">
     </form>
+    <footer>
+        <p>Website made with love</p>
+    </footer>
 </body>
 </html>
