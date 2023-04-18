@@ -1,6 +1,38 @@
 Day 5, April 17 2023
 
-Started the Zero to Mastery Web Development Course 
+Started the Zero to Mastery Web Development Course.
+Finshed Sections 1 - 5 which covers the hostory of the web up to HTML.
+The HTML tags covered were (which is 99% of what you will probably ever need):
+
+<h1-h6>
+<p>
+<strong>
+<em>
+<ol>
+<ul>
+<li>
+<img>
+<br>
+<hr>   
+<a>
+<form>
+<input type="" name="" value="" range="">
+<select><option>
+<div>
+<span>
+<title>
+<aside>
+<header><nav><footer>   
+<iframe>
+<meter>
+<label>
+<canvas>
+<video>
+<audio>
+<textarea>
+<table><tr><td> <svg>
+
+W3schools element tags has a list and example of all and enables one to see how they work
 
 Day 4, April 13 2023
 
