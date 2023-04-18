@@ -1,9 +1,11 @@
 Day 5, April 17 2023
 
 Started the Zero to Mastery Web Development Course.
-Finshed Sections 1 - 5 which covers the hostory of the web up to HTML.
+Finshed Sections 1 - 5 which covers the history of the web up to HTML.
 The HTML tags covered were (which is 99% of what you will probably ever need):
 
+<script>
+<link rel="" type="" href="">
 <h1-h6>
 <p>
 <strong>
