@@ -20,7 +20,13 @@ Consider using Brotli for compression algorhythms
 Conintuing to learn CSS:
 
 https://css-diner.netlify.app/ (great game for practice)
-Great websites for practicing CSS: frontendmentor.io, cssbattle.dev, codepen.io/challenges
+Practicing CSS: frontendmentor.io, cssbattle.dev, codepen.io/challenges
+Practicing flexbox: flexboxfroggy.com
+Flexbox cheat sheet: https://darekkay.com/flexbox-cheatsheet/
+
+Google Fonts for free Fonts
+Creating colors and color palletes: Paletton.com
+CSS resource: CSS-tricks.com
 
 Day 6, April 18 2023
 CSS

@@ -12,6 +12,7 @@ h1 {
     font-family: fantasy;
     font-size: 3em;
     border-bottom: 2px solid pink;
+    border-right: 2px solid pink;
     width: 400px;
     text-align: center;
 }
@@ -19,4 +20,5 @@ h1 {
 img {
     width: 450px;
     height: 300px;
+    margin: 10px;
 }
