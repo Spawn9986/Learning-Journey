@@ -2,23 +2,7 @@
     Property: value;
 } */
 
-body {
-    background-image: url(https://images.unsplash.com/photo-1512386233331-f023884a92e8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2395&q=80);
-    background-size: cover;
-}
-
-h2 {
-    color: #AA3939;
-    text-align: center;
-    border: 5px solid rgba(212, 106, 106, 0.5);
-    cursor: pointer;
-}
-
-p {
-
-}
-
-li {
-    list-style: none;
-    display: inline-block;
+img {
+    width: 450px;
+    height: 300px;
 }
