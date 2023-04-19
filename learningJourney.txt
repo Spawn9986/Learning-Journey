@@ -1,3 +1,24 @@
+Day 8, April 20 2023
+
+Conitunous Integration, Continuous Deployment/ Delivery (CI/ CD) Resources:
+
+https://www.youtube.com/watch?v=1er2cjUq1UI
+
+https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment
+
+https://www.youtube.com/watch?v=LNLKZ4Rvk8w
+
+https://medium.com/cuelogic-technologies/what-is-devops-the-complete-guide-to-devops-with-examples-13db789dd1c
+
+https://www.lucidchart.com/blog/devops-process-flow
+
+https://dev.to/flippedcoding/what-is-ci-cd-for-developers-3l9b
+
+CSS:
+
+CSS Broswer Reference Support - https://www.w3schools.com/cssref/css3_browsersupport.php  (see if CSS properties need broswer prefixes i.e, -moz, -ms, -webkit, -o)
+
+
 Day 7, April 19 2023
 
 Studied on my own about Optimization of client, server, and databases. 
@@ -53,6 +74,8 @@ When selectors win out in the cascade it depends on 3 factors:
 - Specificity (How specific is your selector? The more specific, the more likely it will win out)
 - Importance 
 - Source Order (when impoorting multiple files etc the later style (cascading) wins)
+
+Finished section 6 Z2M 
 
 Day 5, April 17 2023
 
