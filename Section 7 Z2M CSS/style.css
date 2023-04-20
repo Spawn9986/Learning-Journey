@@ -73,6 +73,19 @@ h1 {
 	border-radius: 60px;
 }
 
+.lowerBody {
+	display: flex;
+}
+
+.leftLeg, .rightLeg {
+	width: 37px;
+	height: 100px;
+	border-radius: 60px;
+	margin: 0 15px;
+	position: relative;
+	bottom: 38px;
+}
+
 .head:hover {
     transition: 1s ease-in-out;
 }
