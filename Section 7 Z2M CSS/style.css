@@ -3,8 +3,39 @@ h1 {
 	font-family: 'Roboto', sans-serif;
 }
 
+/* robot
+	head
+		leftEye
+		rightEye
+	upperBody
+		leftArm
+		torso
+		rightArm
+	lowerBody
+		leftLeg
+		rightLeg */
 
-/* background-color: #5f93e8 */
+.head, 
+.leftArm, 
+.torso, 
+.rightArm, 
+.leftLeg, 
+.rightLeg {
+	background-color: #5f93e8; 
+}
+
+.robot {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.head {
+	width: 185px;
+	height: 145px;
+	border-radius: 50em 50em 0px 0px;
+	margin: 10px;
+}
 
 .head:hover {
     transition: 1s ease-in-out;
