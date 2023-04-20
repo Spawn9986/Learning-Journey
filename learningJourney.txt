@@ -1,3 +1,7 @@
+Day 9, Apil 20 2023
+
+
+
 Day 8, April 20 2023
 
 Conitunous Integration, Continuous Deployment/ Delivery (CI/ CD) Resources:
@@ -21,6 +25,7 @@ CSS Broswer Reference Support - https://www.w3schools.com/cssref/css3_browsersup
 Learn about CSS properties transitions and transform which when combined together move or chnage the appearance of an element;
 Transitions and transform resource: https://thoughtbot.com/blog/transitions-and-transforms
 3D Transitions/ transforms: https://3dtransforms.desandro.com/
+CSS practice: https://www.freecodecamp.org/learn/responsive-web-design/basic-css/
 
 
 Day 7, April 19 2023
