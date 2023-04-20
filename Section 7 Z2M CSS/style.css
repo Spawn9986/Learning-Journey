@@ -1,0 +1,26 @@
+h1 {
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+}
+
+
+/* background-color: #5f93e8 */
+
+.head:hover {
+    transition: 1s ease-in-out;
+}
+
+.left_leg:hover {
+	-webkit-transform: rotate(20deg);
+    -moz-transform: rotate(20deg);
+    -o-transform: rotate(20deg);
+    -ms-transform: rotate(20deg);
+    transform: rotate(20deg);
+}
+
+
+
+
+
+
+

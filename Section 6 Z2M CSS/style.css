@@ -1,6 +1,9 @@
 /* Selector {
     Property: value;
 } */
+body {
+    margin: 0px;
+}
 
 .container {
     display: flex;
@@ -23,6 +26,7 @@ img {
     height: 300px;
     margin: 10px;
     transition: all 1s;
+    margin-top: 10px;
 }
 
 img:hover {

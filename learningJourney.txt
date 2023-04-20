@@ -16,7 +16,11 @@ https://dev.to/flippedcoding/what-is-ci-cd-for-developers-3l9b
 
 CSS:
 
-CSS Broswer Reference Support - https://www.w3schools.com/cssref/css3_browsersupport.php  (see if CSS properties need broswer prefixes i.e, -moz, -ms, -webkit, -o)
+CSS Broswer Reference Support - https://www.w3schools.com/cssref/css3_browsersupport.php  & caniuse.com (see if CSS properties need broswer prefixes i.e, -moz, -ms, -webkit, -o)
+
+Learn about CSS properties transitions and transform which when combined together move or chnage the appearance of an element;
+Transitions and transform resource: https://thoughtbot.com/blog/transitions-and-transforms
+3D Transitions/ transforms: https://3dtransforms.desandro.com/
 
 
 Day 7, April 19 2023
