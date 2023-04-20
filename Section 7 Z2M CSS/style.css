@@ -32,9 +32,28 @@ h1 {
 
 .head {
 	width: 185px;
-	height: 145px;
+	height: 140px;
 	border-radius: 50em 50em 0px 0px;
 	margin: 10px;
+}
+
+.leftEye, .rightEye {
+	width: 18px;
+	height: 18px;
+	background-color: white;
+	border-radius: 50%;
+}
+
+.leftEye {
+	position: relative;
+	top: 95px;
+	left: 37px;
+}
+
+.rightEye {
+	position: relative;
+	top: 78px;
+	left: 128px;
 }
 
 .head:hover {
