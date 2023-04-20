@@ -56,10 +56,21 @@ h1 {
 	left: 128px;
 }
 
+.upperBody {
+	display: flex;
+}
+
 .torso {
-	width: 187px;
+	width: 186px;
 	height: 190px;
-	border-radius: 0 0 55px 55px;
+	border-radius: 0 0 56px 56px;
+	margin: 0 10px;
+}
+
+.leftArm, .rightArm {
+	width: 37px;
+	height: 117px;
+	border-radius: 60px;
 }
 
 .head:hover {
