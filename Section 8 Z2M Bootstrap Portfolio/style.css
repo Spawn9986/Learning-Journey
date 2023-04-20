@@ -11,6 +11,18 @@ html {
 }
 
 h1 {
-  color: white;
+  font-size: 3rem;
+  color: #e2dbdb;
 }
 
+hr {
+  margin: 20px auto;
+  color: #F05F44;
+  border: 3px solid #F05F44;
+  max-width: 65px;
+  opacity: 1;  
+}
+
+.btn-primary {
+  background-color: blue;
+}
