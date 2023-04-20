@@ -31,9 +31,9 @@ h1 {
 }
 
 .head {
-	width: 185px;
+	width: 187px;
 	height: 140px;
-	border-radius: 50em 50em 0px 0px;
+	border-radius: 50em 50em 0 0;
 	margin: 10px;
 }
 
@@ -46,14 +46,20 @@ h1 {
 
 .leftEye {
 	position: relative;
-	top: 95px;
-	left: 37px;
+	top: 96px;
+	left: 38px;
 }
 
 .rightEye {
 	position: relative;
 	top: 78px;
 	left: 128px;
+}
+
+.torso {
+	width: 187px;
+	height: 190px;
+	border-radius: 0 0 55px 55px;
 }
 
 .head:hover {
