@@ -1,6 +1,7 @@
 Day 9, Apil 20 2023
 
 Background images resource: https://css-tricks.com/perfect-full-page-background-image/
+knocked out section 8 of Z2M and finsihed a landing page with an email marketing campain using Mailchimp.
 
 Day 8, April 20 2023
 
