@@ -1,23 +1,26 @@
-/* let first = prompt("enter first number");
-let second = prompt("enter second number");
+// Make a Calculator! using prompt(), and variables, make a program that does the following:
+// 1. Prompts the user for first number.
+// 2. Stores that first number
+let first = prompt("Enter your first number");
+// 3. Prompts the user for the second number.
+// 4. stores that number and responds with the SUM by using an alert.  
+let second = prompt("Enter a second number");
 let sum = Number(first) + Number(second);
-alert("The sum is: " + sum); */
+alert("The sum is: " + sum);
 
-// add variable "firstName" and "lastName" // so that they equal your name
-let firstName = "Shawn"
-let lastName = "Couch"
-console.log(firstName + " " + lastName);
+// BONUS: Make a program that can subtract, multiply, and also divide!
 
-// create a variable that holds the answer // of "firstName" + " " + "lastName"
-let name = firstName + " " + lastName;
+let first = prompt("Enter your first number"); 
+let second = prompt("Enter a second number");
+let sum = Number(first) - Number(second);
+alert("The sum is: " + sum);
 
-// Evaluate this question. What is a + b?
-var a = 34;
-var b = 21;
-a = 2;
-console.log(a + b); // what is the answer here?
-// answer will be 23
+let first = prompt("Enter your first number"); 
+let second = prompt("Enter a second number");
+let sum = Number(first) * Number(second);
+alert("The total is: " + sum);
 
-// What is c equal to?
-var c;
-// c will = undefined
+let first = prompt("Enter your first number"); 
+let second = prompt("Enter a second number");
+let sum = Number(first) / Number(second);
+alert("The total is: " + sum);
