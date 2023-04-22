@@ -1,8 +1,7 @@
 .zone {
-    padding:30px 50px;
-    margin:40px 60px;
+    padding:20px 50px;
     cursor:pointer;
-    display:inline-block;
+    /* display:inline-block; */
     color:#FFF;
     font-size:2em;
     border-radius:4px;
@@ -17,11 +16,49 @@
     box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
 }
 
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 30px;
+    font-size: 17px;
+    height: 10px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-weight:900;
+}
+
+.justify-end {
+    margin-left: auto;
+}
+
+.cover {
+    display: flex;
+    flex-direction: row;
+    height: 500px;
+}
+
+
+
+.projects {
+  height: auto;
+}
+
+.footer {
+    display: flex;
+    flex-direction: row;
+    height: 10px;
+}
+
 /*https://paulund.co.uk/how-to-create-shiny-css-buttons*/
 /***********************************************************************
  *  Green Background
  **********************************************************************/
-.green{
+.header{
     background: #56B870; /* Old browsers */
     background: -moz-linear-gradient(top, #56B870 0%, #a5c956 100%); /* FF3.6+ */
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#56B870), color-stop(100%,#a5c956)); /* Chrome,Safari4+ */
@@ -34,7 +71,7 @@
 /***********************************************************************
  *  Red Background
  **********************************************************************/
-.red{
+.cover{
     background: #C655BE; /* Old browsers */
     background: -moz-linear-gradient(top, #C655BE 0%, #cf0404 100%); /* FF3.6+ */
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#C655BE), color-stop(100%,#cf0404)); /* Chrome,Safari4+ */
@@ -42,12 +79,13 @@
     background: -o-linear-gradient(top, #C655BE 0%,#cf0404 100%); /* Opera 11.10+ */
     background: -ms-linear-gradient(top, #C655BE 0%,#cf0404 100%); /* IE10+ */
     background: linear-gradient(top, #C655BE 0%,#cf0404 100%); /* W3C */
+
 }
 
 /***********************************************************************
  *  Yellow Background
  **********************************************************************/
-.yellow{
+.footer{
     background: #F3AAAA; /* Old browsers */
     background: -moz-linear-gradient(top, #F3AAAA 0%, #febf04 100%); /* FF3.6+ */
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#F3AAAA), color-stop(100%,#febf04)); /* Chrome,Safari4+ */
@@ -60,7 +98,7 @@
 /***********************************************************************
  *  Blue Background
  **********************************************************************/
-.blue{
+.projects{
     background: #7abcff; /* Old browsers */
     background: -moz-linear-gradient(top, #7abcff 0%, #60abf8 44%, #4096ee 100%); /* FF3.6+ */
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#7abcff), color-stop(44%,#60abf8), color-stop(100%,#4096ee)); /* Chrome,Safari4+ */
