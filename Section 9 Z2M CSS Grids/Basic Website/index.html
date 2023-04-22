@@ -5,32 +5,27 @@
   <link rel="stylesheet" type="text/css" href="./style.css">
 </head>
 <body>
-  <header>
-    <nav class="zone header">
-      <div><a href="#about">About</a></div>
-      <div><a href="#products">Products</a></div>
-      <div><a href="#ourTeam">Our team</a></div>
-      <!-- have to use block to override the flex in parent and then in css use margin-right: auto -->
-      <div class="block justify-end"><a href="#contact">Contact</a></div>
+    <nav class="zone header sticky">
+      <ul class="main-nav">
+        <li><a href="">About</a></li>
+        <li><a href="">Products</a></li>
+        <li><a href="">Our team</a></li>
+        <li class="push"><a href="">Contact</a></li>
+      </ul>
     </nav>
-  </header>
-  <section>
-    <div class="zone cover">Cover</div>
-  </section>
-  <section>
-    <div class="zone projects">
-      <div class="item project-1"><img src="./img/data_storage_2_2.png"></div>
-      <div class="item project-2"><img src="./img/desktop_analytics_2.png"></div>
-      <div class="item project-3"><img src="./img/files_2.png"></div>
-      <div class="item project-4"><img src="./img/monitor_coding_2.png"></div>
-      <div class="item project-5"><img src="./img/monitor_settings_2.png"></div>
-      <div class="item project-6"><img src="./img/server_2_2.png"></div>
-      <div class="item project-7"><img src="./img/server_3.png"></div>
-      <div class="item project-8"><img src="./img/server_safe_2.png"></div>
-    </div>
-  </section>
-  <footer>
-    <div class="zone footer">Footer</div>
-  </footer>
+  <div class="container zone">
+    <img class="cover" src="./img/undraw.png">
+  </div>
+  <div class="zone projects">
+    <div class="box zone"><img src="./img/data_storage_2_2.png"></div>
+    <div class="box zone"><img src="./img/desktop_analytics_2.png"></div>
+    <div class="box zone"><img src="./img/files_2.png"></div>
+    <div class="box zone"><img src="./img/monitor_coding_2.png"></div>
+    <div class="box zone"><img src="./img/monitor_settings_2.png"></div>
+    <div class="box zone"><img src="./img/server_2_2.png"></div>
+    <div class="box zone"><img src="./img/server_3.png"></div>
+    <div class="box zone"><img src="./img/server_safe_2.png"></div>
+  </div>
+  <footer class="zone yellow">Footer</footer>
 </body>
 </html>

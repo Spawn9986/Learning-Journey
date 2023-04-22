@@ -1,11 +1,17 @@
+Day 11, April 2023
+
+Section 11 (Javascript)
+
 Day 10, April 21 2023
 
+Finished up a basic website with a fairly common layout that many webistes use using CSS Flexbox and CSS Grids.
+Finished sections 9 - 10 on Z2M (CSS Grid + CSS Layout & Career of a web developer)
 
 
 Day 9, Apil 20 2023
 
 Background images resource: https://css-tricks.com/perfect-full-page-background-image/
-knocked out section 8 of Z2M and finsihed a landing page with an email marketing campain using Mailchimp.
+knocked out section 8 of Z2M (Bootstrap, Templates, and building your startup landing page) and finsihed a landing page with an email marketing campain using Mailchimp.
 
 Day 8, April 20 2023
 
@@ -32,8 +38,11 @@ Transitions and transform resource: https://thoughtbot.com/blog/transitions-and-
 3D Transitions/ transforms: https://3dtransforms.desandro.com/
 CSS practice: https://www.freecodecamp.org/learn/responsive-web-design/basic-css/
 
+Finished section 7 of Z2M (Advanced CSS)
+
 
 Day 7, April 19 2023
+
 
 Studied on my own about Optimization of client, server, and databases. 
 
