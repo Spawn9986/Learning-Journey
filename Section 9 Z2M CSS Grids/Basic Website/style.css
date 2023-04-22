@@ -40,12 +40,28 @@ a {
     display: flex;
     flex-direction: row;
     height: 500px;
+    background: url(./img/undraw.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
-
-
 .projects {
-  height: auto;
+    display: grid;
+    gap: 20px;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); 
+    grid-template-rows: 1fr;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+.item {
+    background-color: black;
 }
 
 .footer {
@@ -71,7 +87,7 @@ a {
 /***********************************************************************
  *  Red Background
  **********************************************************************/
-.cover{
+/* .cover{
     background: #C655BE; /* Old browsers */
     background: -moz-linear-gradient(top, #C655BE 0%, #cf0404 100%); /* FF3.6+ */
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#C655BE), color-stop(100%,#cf0404)); /* Chrome,Safari4+ */
@@ -80,7 +96,7 @@ a {
     background: -ms-linear-gradient(top, #C655BE 0%,#cf0404 100%); /* IE10+ */
     background: linear-gradient(top, #C655BE 0%,#cf0404 100%); /* W3C */
 
-}
+} */
 
 /***********************************************************************
  *  Yellow Background
