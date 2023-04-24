@@ -1,30 +1,35 @@
-// Create an object and an array which we will use in our facebook exercise. 
+let database = [
+    {
+        username: "shawn",
+        password: "supersecret"
+    }
+]
 
-// 1. Create an object that has properties "username" and "password". Fill those values in with strings.
-let fbObj = {
-    username: "myUserName",
-    password: "123"
-};
-
-// 2. Create an array which contains the object you have made above and name the array "database".
-let database = [fbObj];
-// 3. Create an array called "newsfeed" which contains 3 objects with properties "username" and "timeline".
 let newsfeed = 
 [
     {
-        username: "user1",
-        timeline: "user1Timeline"
+        username: "Bobby",
+        timeline: "So tired from all that learning!"
     },
     {
-        username: "user2",
-        timeline: "user2Timeline"
+        username: "Sally",
+        timeline: "Javascript is so cool!"
     },
     {
-        username: "user3",
-        timeline: "user3Timeline"
+        username: "Mitch",
+        timeline: "Javascript is pretty cool"
     }
 ];
 
-console.log(fbObj); 
-console.log(database);
-console.log(newsfeed);
+function signIn(username, password) {
+    if (username === database[0].username && password === database[0].password) {
+        console.log(newsfeed);
+    } else {
+        alert("Sorry, wrong username and password");
+    }
+}
+
+let userNamePrompt = prompt("What\'s your username?");
+let passwordPrompt = prompt("What\'s your password?");
+
+signIn(userNamePrompt, passwordPrompt);

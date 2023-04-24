@@ -23,16 +23,16 @@ let database = [fbObj];
 let newsfeed = 
 [
     {
-        username: "user1",
-        timeline: "user1Timeline"
+        username: "Bobby",
+        timeline: "So tired from all that learning!"
     },
     {
-        username: "user2",
-        timeline: "user2Timeline"
+        username: "Sally",
+        timeline: "Javascript is so cool!"
     },
     {
-        username: "user3",
-        timeline: "user3Timeline"
+        username: "Mitch",
+        timeline: "Javascript is pretty cool"
     }
 ];
 
