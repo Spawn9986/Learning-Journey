@@ -1,3 +1,7 @@
+making our Facebook app better:
+
+-------- MY ANSWERS -------
+
 let database = [
     {
         username: "shawn",
