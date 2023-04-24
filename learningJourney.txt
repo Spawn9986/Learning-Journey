@@ -1,5 +1,7 @@
 Day 12, April 22 2023
 
+Finished Section 11 Z2M (Javascript) and started section 12 Z2M (DOM Manipulation);
+
 Day 11, April 21 2023
 
 Section 11 (Javascript)
