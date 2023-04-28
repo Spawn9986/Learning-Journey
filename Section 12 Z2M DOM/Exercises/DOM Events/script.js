@@ -36,6 +36,8 @@ input.addEventListener("keypress", addListAfterKeypress);
 let input = document.getElementById("userinput");
 let button = document.getElementById("enter");
 let ul = document.querySelector("ul");
+// could also use let ul = document.getElementByTagName("ul")[0]; --> dont forget its an array and u need the [0] or 
+// it will say "....is not a function"
 
 // Accomplish: I want to be able to take in the user input and add it to the ul as an li if char length > 0;
 
@@ -47,7 +49,6 @@ button.addEventListener("click", function() {
 		let li = document.createElement("li");
 		let textNode = document.createTextNode(input.value);
 		li.appendChild(textNode);
-		console.log(li);
 		ul.appendChild(li);
 	}
 })
@@ -56,6 +57,10 @@ button.addEventListener("click", function() {
 input.addEventListener("keypress", function(e) {
 	if (input.value.length > 0 && e.key === 'Enter') {
 		console.log(input.value);
+		let li = document.createElement("li");
+		let textNode = document.createTextNode(input.value);
+		li.appendChild(textNode);
+		ul.appendChild(li);
 	}
 });
 
