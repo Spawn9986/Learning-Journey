@@ -43,7 +43,7 @@ let ul = document.querySelector("ul");
 
 // Add event listeners to the button by click and input by enter on the keyboard 
 // Button Click first
-button.addEventListener("click", function() {
+/* button.addEventListener("click", function() {
 	if (input.value.length > 0) {
 		console.log("clicked!");
 		let li = document.createElement("li");
@@ -51,10 +51,10 @@ button.addEventListener("click", function() {
 		li.appendChild(textNode);
 		ul.appendChild(li);
 	}
-})
+}) */
 
 // Keyboard using enter key which is code 13
-input.addEventListener("keypress", function(e) {
+/* input.addEventListener("keypress", function(e) {
 	if (input.value.length > 0 && e.key === 'Enter') {
 		console.log(input.value);
 		let li = document.createElement("li");
@@ -62,5 +62,28 @@ input.addEventListener("keypress", function(e) {
 		li.appendChild(textNode);
 		ul.appendChild(li);
 	}
-});
+}); */
 
+// Lets refactor the code and clean it up (DRY - don't repeat yourself)
+
+function createListElement() {
+	let li = document.createElement("li");
+	let textNode = document.createTextNode(input.value);
+	li.appendChild(textNode);
+	ul.appendChild(li);
+}
+
+function onClick() {
+	if (input.value.length > 0) {
+		createListElement();
+	}
+}
+
+function onKeyboard(e) {
+	if (input.value.length > 0 && e.key === 'Enter') {
+		createListElement();
+	}
+}
+
+button.addEventListener("click", onClick);
+input.addEventListener("keypress", onKeyboard);
