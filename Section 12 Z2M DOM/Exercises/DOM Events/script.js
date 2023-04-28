@@ -45,4 +45,10 @@ button.addEventListener("click", function() {
 	console.log("clicked!");
 })
 
-//
+// Keyboard using enter key which is code 13
+input.addEventListener("keypress", function(e) {
+	if (input.value.length > 0 && e.key === 'Enter') {
+		console.log(input.value);
+	}
+});
+
