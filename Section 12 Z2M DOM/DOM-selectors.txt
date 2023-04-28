@@ -1,0 +1,31 @@
+Exercise: use on www.Google.com
+
+DOM Selectors
+--------------
+getElementsByTagName // let body = document.getElementsByTagName("body");
+getElementsByClassName // let o3j99 = document.getElementsByClassName("o3j99");
+getElementById // let spchdlg = document.getElementById("spch-dlg");
+
+querySelector // let img = document.querySelector("img");
+querySelectorAll // let allIMG = document.querySelectorAll("img");   allIMG[1]
+
+getAttribute // let imgHeight = document.getElementsByTagName("img").getAtrribute("height");
+setAttribute // let secondImgWidth = document.getElementsByTagName("img")[1].getAttribute("width");
+
+##Changing Styles
+style.{property} // document.getElementsByTagName("img")[1].style.height = "200px";
+
+className // document.getElementsByTagName("img")[1].className = "best";
+classList // document.getElementsByTagName("img")[1].classList = "best best2 best3"
+
+classList.add // document.getElementsByTagName("img")[1].classList.add("cool");
+classList.remove // document.getElementsByTagName("img")[1].classList.remove("cool");
+classList.toggle // document.getElementsByTagName("img")[1].classList.toggle("best");
+
+##Bonus
+innerHTML // document.querySelector("#gb > div > div:nth-child(1) > div > div:nth-child(2) > a").innerHTML = "Dangerous";
+
+parentElement // document.querySelector("#gb > div > div:nth-child(1) > div > div:nth-child(2) > a").parentElement;
+children // document.querySelector("#gb > div > div:nth-child(1) > div > div:nth-child(2) > a").parentElement.parentElement.children;
+
+##It is important to CACHE selectors in variables
