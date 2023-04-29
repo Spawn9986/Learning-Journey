@@ -3,6 +3,7 @@ let input = document.getElementById("userinput");
 let button = document.getElementById("enter");
 let ul = document.querySelector("ul");
 let list = document.getElementsByTagName("li");
+
 // could also use let ul = document.getElementByTagName("ul")[0]; --> dont forget its an array and u need the [0] or 
 // it will say "....is not a function"
 
@@ -79,6 +80,25 @@ function toggleListItemOnClick(){
 	this.classList.toggle("done");
 } */
 
+//locate the ul
+// add buttons to each li
+// add event listener to each button
+// the EL function will delete li when clicked
+
+
+for (let i = 0; i < list.length; i++) {
+	let button = document.createElement("button");
+	let buttonText = document.createTextNode("delete");
+	button.appendChild(buttonText);
+	list[i].appendChild(button);
+}
+
+/* for (let i = 0; ulButtons.length < 0; i++) {
+	let ulButtons = document.getElementsByTagName("body > ul > li:nthchild(i) > button");
+	ulButtons[i].addEventListener("click", function (e) {
+		e.currentTarget("remove");
+	}
+} */
 
 button.addEventListener("click", addListAfterClick);
 input.addEventListener("keypress", addListAfterKeypress);
