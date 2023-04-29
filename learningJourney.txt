@@ -1,206 +1,208 @@
 Day 14, April 28
 
+    More work on the DOM
+
 Day 13, April 27 2023 
 
-Started section 12 of Z2M (DOM)
+    Started section 12 of Z2M (DOM)
 
 Day 12, April 22 2023
 
-Finished Section 11 Z2M (Javascript) and started section 12 Z2M (DOM Manipulation);
+    Finished Section 11 Z2M (Javascript) and started section 12 Z2M (DOM Manipulation);
 
 Day 11, April 21 2023
 
-Section 11 (Javascript)
+    Section 11 (Javascript)
 
 Day 10, April 21 2023
 
-Finished up a basic website with a fairly common layout that many webistes use using CSS Flexbox and CSS Grids.
-Finished sections 9 - 10 on Z2M (CSS Grid + CSS Layout & Career of a web developer)
+    Finished up a basic website with a fairly common layout that many webistes use using CSS Flexbox and CSS Grids.
+    Finished sections 9 - 10 on Z2M (CSS Grid + CSS Layout & Career of a web developer)
 
 
 Day 9, Apil 20 2023
 
-Background images resource: https://css-tricks.com/perfect-full-page-background-image/
-knocked out section 8 of Z2M (Bootstrap, Templates, and building your startup landing page) and finsihed a landing page with an email marketing campain using Mailchimp.
+    Background images resource: https://css-tricks.com/perfect-full-page-background-image/
+    knocked out section 8 of Z2M (Bootstrap, Templates, and building your startup landing page) and finsihed a landing page with an email marketing campain using Mailchimp.
 
 Day 8, April 20 2023
 
-Conitunous Integration, Continuous Deployment/ Delivery (CI/ CD) Resources:
+    Conitunous Integration, Continuous Deployment/ Delivery (CI/ CD) Resources:
 
-https://www.youtube.com/watch?v=1er2cjUq1UI
+    https://www.youtube.com/watch?v=1er2cjUq1UI
 
-https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment
+    https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment
 
-https://www.youtube.com/watch?v=LNLKZ4Rvk8w
+    https://www.youtube.com/watch?v=LNLKZ4Rvk8w
 
-https://medium.com/cuelogic-technologies/what-is-devops-the-complete-guide-to-devops-with-examples-13db789dd1c
+    https://medium.com/cuelogic-technologies/what-is-devops-the-complete-guide-to-devops-with-examples-13db789dd1c
 
-https://www.lucidchart.com/blog/devops-process-flow
+    https://www.lucidchart.com/blog/devops-process-flow
 
-https://dev.to/flippedcoding/what-is-ci-cd-for-developers-3l9b
+    https://dev.to/flippedcoding/what-is-ci-cd-for-developers-3l9b
 
-CSS:
+    CSS:
 
-CSS Broswer Reference Support - https://www.w3schools.com/cssref/css3_browsersupport.php  & caniuse.com (see if CSS properties need broswer prefixes i.e, -moz, -ms, -webkit, -o)
+    CSS Broswer Reference Support - https://www.w3schools.com/cssref/css3_browsersupport.php  & caniuse.com (see if CSS properties need broswer prefixes i.e, -moz, -ms, -webkit, -o)
 
-Learn about CSS properties transitions and transform which when combined together move or chnage the appearance of an element;
-Transitions and transform resource: https://thoughtbot.com/blog/transitions-and-transforms
-3D Transitions/ transforms: https://3dtransforms.desandro.com/
-CSS practice: https://www.freecodecamp.org/learn/responsive-web-design/basic-css/
+    Learn about CSS properties transitions and transform which when combined together move or chnage the appearance of an element;
+    Transitions and transform resource: https://thoughtbot.com/blog/transitions-and-transforms
+    3D Transitions/ transforms: https://3dtransforms.desandro.com/
+    CSS practice: https://www.freecodecamp.org/learn/responsive-web-design/basic-css/
 
-Finished section 7 of Z2M (Advanced CSS)
+    Finished section 7 of Z2M (Advanced CSS)
 
 
 Day 7, April 19 2023
 
 
-Studied on my own about Optimization of client, server, and databases. 
+    Studied on my own about Optimization of client, server, and databases. 
 
-Pagespeed.web.dev and web.dev/vitals are good resources for this as well as K6 testing etc.
+    Pagespeed.web.dev and web.dev/vitals are good resources for this as well as K6 testing etc.
 
-Some topics that came up were Minification, compression, caching, dead-code, code-splitting, image optimization, server-side rendering, elimating redundancy requests.
+    Some topics that came up were Minification, compression, caching, dead-code, code-splitting, image optimization, server-side rendering, elimating redundancy requests.
 
-For client side:
+    For client side:
 
-First Contentful Paint (FCP)
-Largest Contentful Paint (LCP)
-Cumulative Layout Shift (CLS)
-First Input Delay (FID)
-Time to Interactive (TII)
-Total Blocking Time (TBT)
+    First Contentful Paint (FCP)
+    Largest Contentful Paint (LCP)
+    Cumulative Layout Shift (CLS)
+    First Input Delay (FID)
+    Time to Interactive (TII)
+    Total Blocking Time (TBT)
 
-Consider using Brotli for compression algorhythms 
+    Consider using Brotli for compression algorhythms 
 
-Conintuing to learn CSS:
+    Conintuing to learn CSS:
 
-https://css-diner.netlify.app/ (great game for practice)
-Practicing CSS: frontendmentor.io, cssbattle.dev, codepen.io/challenges
-Practicing flexbox: flexboxfroggy.com
-Flexbox cheat sheet: https://darekkay.com/flexbox-cheatsheet/
+    https://css-diner.netlify.app/ (great game for practice)
+    Practicing CSS: frontendmentor.io, cssbattle.dev, codepen.io/challenges
+    Practicing flexbox: flexboxfroggy.com
+    Flexbox cheat sheet: https://darekkay.com/flexbox-cheatsheet/
 
-Google Fonts for free Fonts
-Creating colors and color palletes: Paletton.com
-CSS resource: CSS-tricks.com
+    Google Fonts for free Fonts
+    Creating colors and color palletes: Paletton.com
+    CSS resource: CSS-tricks.com
 
 Day 6, April 18 2023
-CSS
-The last element is the one that shows on the screen when there is overlapping CSS
+    CSS
+    The last element is the one that shows on the screen when there is overlapping CSS
 
-Went over these selectors:
+    Went over these selectors:
 
-.class
-#id
-*
-element
-element1, element2
-element1 element2 (select all element2 inside of element1 ...so it only affects element2. Also if you want more than the immediate to the next one meaning you want all that follow you use element1 ~ element2...this selects all element2's that follow element1)
-element1 > element2 (select all element2 that have a parent of element1) 
-element1 + element2 (select any element1 that is exactly after an element2)
-:hover (can't see until or appears when I hover over the element). You can also combine  with the elements above i.e., element1 + element2: hover {...}
-:last-child
-:first-child
-:nth-child (i.e., :nth-child(3))
-!important (not recommended). It overrides the cascading style sheet rules
+    .class
+    #id
+    *
+    element
+    element1, element2
+    element1 element2 (select all element2 inside of element1 ...so it only affects element2. Also if you want more than the immediate to the next one meaning you want all that follow you use element1 ~ element2...this selects all element2's that follow element1)
+    element1 > element2 (select all element2 that have a parent of element1) 
+    element1 + element2 (select any element1 that is exactly after an element2)
+    :hover (can't see until or appears when I hover over the element). You can also combine  with the elements above i.e., element1 + element2: hover {...}
+    :last-child
+    :first-child
+    :nth-child (i.e., :nth-child(3))
+    !important (not recommended). It overrides the cascading style sheet rules
 
-When selectors win out in the cascade it depends on 3 factors:
+    When selectors win out in the cascade it depends on 3 factors:
 
-- Specificity (How specific is your selector? The more specific, the more likely it will win out)
-- Importance 
-- Source Order (when impoorting multiple files etc the later style (cascading) wins)
+    - Specificity (How specific is your selector? The more specific, the more likely it will win out)
+    - Importance 
+    - Source Order (when impoorting multiple files etc the later style (cascading) wins)
 
-Finished section 6 Z2M 
+    Finished section 6 Z2M 
 
 Day 5, April 17 2023
 
-Started the Zero to Mastery Web Development Course to compliment MDN.
-Finshed Sections 1 - 5 which covers the history of the web up to HTML.
-The HTML tags covered were (which is 99% of what you will probably ever need):
+    Started the Zero to Mastery Web Development Course to compliment MDN.
+    Finshed Sections 1 - 5 which covers the history of the web up to HTML.
+    The HTML tags covered were (which is 99% of what you will probably ever need):
 
-class
-id
-<script>
-<link rel="" type="" href="">
-<style> (In the past was used in the header but not so much any more ... now we just link in our css files or occasionally use in line styling (the 3rd way))
-<h1-h6>
-<p>
-<strong>
-<em>
-<ol>
-<ul>
-<li>
-<img>
-<br>
-<hr>   
-<a>
-<form>
-<input type="" name="" value="" range="">
-<select><option>
-<div>
-<span>
-<title>
-<aside>
-<header><nav><footer>   
-<iframe>
-<meter>
-<label>
-<canvas>
-<video>
-<audio>
-<textarea>
-<table><tr><td> <svg>
+    class
+    id
+    <script>
+    <link rel="" type="" href="">
+    <style> (In the past was used in the header but not so much any more ... now we just link in our css files or occasionally use in line styling (the 3rd way))
+    <h1-h6>
+    <p>
+    <strong>
+    <em>
+    <ol>
+    <ul>
+    <li>
+    <img>
+    <br>
+    <hr>   
+    <a>
+    <form>
+    <input type="" name="" value="" range="">
+    <select><option>
+    <div>
+    <span>
+    <title>
+    <aside>
+    <header><nav><footer>   
+    <iframe>
+    <meter>
+    <label>
+    <canvas>
+    <video>
+    <audio>
+    <textarea>
+    <table><tr><td> <svg>
 
-W3schools element tags has a list and example of all and enables one to see how they work
+    W3schools element tags has a list and example of all and enables one to see how they work
 
 Day 4, April 13 2023
 
-Started @: HTML - Stucturing the web - Introduction to HTML - Creating hyperlinks (MDN Web Dev Course)
-Ended @: HTML - Structuring the web - Multimedia and embedding
+    Started @: HTML - Stucturing the web - Introduction to HTML - Creating hyperlinks (MDN Web Dev Course)
+    Ended @: HTML - Structuring the web - Multimedia and embedding
 
-Also trying to become more competent on chrome dev tools
+    Also trying to become more competent on chrome dev tools
 
-Day 3, April 12 2023
+    Day 3, April 12 2023
 
-Started @: Getting Started with the web - How the web works (MDN Web Dev Course)
-Ended @: HTML - Stucturing the web - creating hyperlinks (MDN Web Dev Course)
+    Started @: Getting Started with the web - How the web works (MDN Web Dev Course)
+    Ended @: HTML - Stucturing the web - creating hyperlinks (MDN Web Dev Course)
 
 Day 2, April 11, 2023
-Going through mdn web development track: 
+    Going through mdn web development track: 
 
-https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
+    https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
 
-starting today at --> Getting Started with the web - Javascript basics
-Stopped at --> Getting Started with the web - How the web works 
+    starting today at --> Getting Started with the web - Javascript basics
+    Stopped at --> Getting Started with the web - How the web works 
 
-created a Github portfolio page to begin building using Github pages 
-(I was previosuly using my Wordpress site for this)
+    created a Github portfolio page to begin building using Github pages 
+    (I was previosuly using my Wordpress site for this)
 
 
 
 Day 1 (April 10, 2023)
 
-I will start fresh today on being consistent and start from scratch in my learning.
-I will map out my learning based on Javascript and FE, BE, databases, deployment, etc
+    I will start fresh today on being consistent and start from scratch in my learning.
+    I will map out my learning based on Javascript and FE, BE, databases, deployment, etc
 
-Start with HTML and CSS. HTML is for content whereas CSS is for styling. CSS can be 
-embedded within the HTML page or loaded using a tag.
+    Start with HTML and CSS. HTML is for content whereas CSS is for styling. CSS can be 
+    embedded within the HTML page or loaded using a tag.
 
-HTML element conists of an opening and closing tag i.e., <p></p>. HTML can have unique
-identifyers that dont show in the content and go by attribute and values.
+    HTML element conists of an opening and closing tag i.e., <p></p>. HTML can have unique
+    identifyers that dont show in the content and go by attribute and values.
 
-Anything in HTML between <!-- and --> is an HTML comment.
+    Anything in HTML between <!-- and --> is an HTML comment.
 
-Reviewed HTML basics and attempted to recreate https://www.rei.com/learn/expert-advice/backpacking-beginners.html
+    Reviewed HTML basics and attempted to recreate https://www.rei.com/learn/expert-advice/backpacking-beginners.html
 
-CSS Basics:
+    CSS Basics:
 
-selector {
-    Property: Value
-}
+    selector {
+        Property: Value
+    }
 
-when selecting IDs use #; when selcting classes use .
+    when selecting IDs use #; when selcting classes use .
 
-### ----- Questions ---- ####
-How do I embed CSS styling into an HTML element as opposed to importing a CSS file?
-Why do some elements written differently (void elements) such as img tags etc?
-When to use class vs ID?
-    ID = unique vs class = multiple instances of the same
+    ### ----- Questions ---- ####
+    How do I embed CSS styling into an HTML element as opposed to importing a CSS file?
+    Why do some elements written differently (void elements) such as img tags etc?
+    When to use class vs ID?
+        ID = unique vs class = multiple instances of the same
