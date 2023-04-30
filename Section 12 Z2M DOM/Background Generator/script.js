@@ -10,7 +10,7 @@ let b = 255
 function setGradient() {
     body.style.background = 
         "linear-gradient(to right, " 
-        + color1.value 
+        + color1.value
         + " , " 
         + color2.value 
         + ")";
@@ -31,7 +31,7 @@ function randomColorsGen() {
     };
     c1.rgb = 'rgb('+c1.r+','+c1.g+','+c1.b+')';
     c2.rgb = 'rgb('+c2.r+','+c2.g+','+c2.b+')';
-    body.style.background = "linear-gradient(to right, "+c1.rgb+", "+c2.rgb+")";
+    body.style.background = "linear-gradient(to right, "+c1.rgb+" , "+c2.rgb+")";
 }
 
 color1.addEventListener("input", setGradient)
