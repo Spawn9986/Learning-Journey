@@ -1,4 +1,8 @@
-Day 14, April 28
+Day 15, April 29, 2023
+
+Finished Section 12 Z2M (DOM)
+
+Day 14, April 28, 2023
 
     More work on the DOM
 
