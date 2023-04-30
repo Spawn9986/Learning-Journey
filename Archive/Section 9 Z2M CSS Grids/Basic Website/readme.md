@@ -11,7 +11,7 @@
 <h2>Project Screenshots:</h2>
 
 <p align="center">
-    <img src="https://github.com/Spawn9986/basic-webpage/blob/main/Final.png" alt="project-screenshot" width="724" height="387/">
+    <img src="https://github.com/Spawn9986/Learning-Journey/blob/main/Archive/Section%209%20Z2M%20CSS%20Grids/Basic%20Website/img/5_Portfolio%20Site.png" alt="project-screenshot" width="724" height="387/">
 </p>
   
   
