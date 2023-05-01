@@ -32,16 +32,56 @@ const array = [-1,0,3,100, 99, 2, 99] // should return 100
 const array2 = ['a', 3, 4, 2] // should return 4
 const array3 = [] // should return 0
 
-function biggestNumberInArray(arr) {
-
+let biggestNumberInArray = (arr) => {
+  let num = 0;
+  for (let item of arr) {
+    if (item > num) {
+      num = item;
+    }
+  }
+  return num;
 }
 
-function biggestNumberInArray2(arr) {
-
+let standard = (arr) => {
+  let num = 0;
+  for (let i = 0; i < arr.length; i++) {
+    if (arr[i] > num) {
+      num = arr[i];
+    }
+  }
+  return num;
 }
 
-function biggestNumberInArray3(arr) {
+let loopWhile = (arr) => {
+  let num = 0;
+  let i = 0;
+  while (i < arr.length) {
+    if (arr[i] > num) {
+      num = arr[i]
+    }
+    i++;
+  }
+  return num;
+}
 
+let iterateForEach = (arr) => {
+  let num = 0;
+  arr.forEach(item => {
+    if (item > num) {
+      num = item;
+    }
+  })
+  console.log(num);
+}
+
+let iterateMap = (arr) => {
+  let num = 0;
+  arr.map(item => {
+    if (item > num) {
+      num = item;
+    }
+  })
+  console.log(num);
 }
 
 
@@ -53,6 +93,10 @@ amazonBasket = {
   floss: 100
 }
 
-function checkBasket(basket, lookingFor) {
-
+let checkBasket = (obj, item) => {
+  for (let property in obj) {
+    if (property === item) {
+      return true;
+    } else return "Item not found"
+  }
 }
