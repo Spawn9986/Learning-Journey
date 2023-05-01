@@ -1,3 +1,9 @@
+Day 16, April 30 2023
+
+Started Section 13 (Advanced Javascript) - learned Babel, ES5/6, ternary operators, switch cases, arrow functions, closures, scope, 
+let, const, currying, compose, Functional purity/determinism (functions that minimize side affects meaning they return something or anything you put into the function it always return the same thing instead of affecting things outisde of thier scope)
+
+
 Day 15, April 29, 2023
 
 Finished Section 12 Z2M (DOM)
