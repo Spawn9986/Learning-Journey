@@ -1,6 +1,9 @@
 Day 17, May 1 2023
 
-learned more Adv JS concepts: object oriented programming, reference type (pass by reference vs pass by value), context vs scope (this), instantiation (classes, constructors,etc), inheritance, shallow vs depp cloning, type coercion; ES7 (.includes() on strings & arrays, exponential operator)
+learned more Adv JS concepts: object oriented programming, reference type (pass by reference vs pass by value), context vs scope (this), instantiation (classes, constructors,etc), inheritance, shallow vs depp cloning, type coercion; 
+
+ES7 (.includes() on strings & arrays, exponential operator)
+ES8 (string padding, object.value, object.entries), Async/ Await
 
 Day 16, April 30 2023
 
