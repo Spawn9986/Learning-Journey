@@ -6,6 +6,7 @@ ES7 (includes() on strings & arrays, exponential operator)
 ES8 (string padding, object.value, object.entries), Async/ Await
 ES9 + ES8 Async await (save for later)
 ES10 (flat(), flatMap(), trimStart(), trimEnd(), fromEntries(), try/catch)
+Advanced Loops (for of, for in (enumerating for objects))
 
 Day 16, April 30 2023
 
