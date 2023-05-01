@@ -1,3 +1,7 @@
+Day 17, May 1 2023
+
+learned more Adv JS concepts: object oriented programming, reference type (pass by reference vs pass by value), context vs scope (this), instantiation (classes, constructors,etc), inheritance, shallow vs depp cloning, type coercion
+
 Day 16, April 30 2023
 
 Started Section 13 (Advanced Javascript) - learned Babel, ES5/6, ternary operators, switch cases, arrow functions, closures, scope, 
