@@ -6,26 +6,24 @@ Question 3: Write a function that converts HEX to RGB. Then Make that function a
 
 // Plan for Q1
 // 1 - Arrange array by order
-//   * block same together into seperate arrays
+//   - Make sure 2 is before 10 bc initial sorting does 1, 1, 10, 2
+// 2 - block same together into seperate arrays
 //    - Sol'n 1: Check if same as current and repeat then group together in array (wont work bc it will leave out last element)
 //    - Sol'n 2: Check for all matches of the current by maybe using filter????
-// 2 - distinguish between number and string but keep order
+// 3 - distinguish between number and string but keep order
 
 let array = [1,2,4,591,392,391,2,5,10,2,1,1,1,20,20];
-console.log("Original array type:", typeof array[0])
 
 let sorted = (arr) => {
   let sort = arr.sort()
-    console.log("Sorted Array type:", typeof sort[0]);
+    console.log(sort);
   let result = sort.map((item) => {
-    let i = 0;
-    if (arr[i] > 0) {
-      arr.filter(item => item === arr[i])
-    }
-    i++;
+    let i = 0
+    console.log(sort.filter(item => item === item))
   })
   return result;
 }
+
 
 let output = sorted(array);
 console.log(output);
