@@ -39,8 +39,10 @@ let obj = {
 'my name is Rudolf the raindeer'
 
 Object.entries(obj).toString().replace(/[,]/g,' ')
+// Or
+Object.entries(obj).toString().replaceAll(",",' ')
 
-//the [] means rpleace all items in these [] with ... ie. could have been [,$#!] etc
+//the [] means replace all items in these [] with ... ie. could have been [,$#!] etc
 
 // additional sol'n: Object.entries(obj).map(value => value.join(" ")).join(' ')
 

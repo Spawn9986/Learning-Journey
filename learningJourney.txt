@@ -8,6 +8,7 @@ ES9 + ES8 Async await (save for later)
 ES10 (flat(), flatMap(), trimStart(), trimEnd(), fromEntries(), try/catch)
 Advanced Loops (for of, for in (enumerating for objects))
 ES2020 (BigInt, Nullish Coalescing Operation, Optional Chaining Operations, --> for later: Promise:allSettled, globalThis)
+ES2021 (replaceAll())
 
 Day 16, April 30 2023
 
