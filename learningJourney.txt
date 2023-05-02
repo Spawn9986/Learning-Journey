@@ -1,5 +1,8 @@
 Day 17, May 1 2023
 
+Finshed Section 13 (Advanced Javascript)
+Finished Section 14 (Command Line)
+
 learned more Adv JS concepts: destructuring, object oriented programming, reference type (pass by reference vs pass by value), context vs scope (this), instantiation (classes, constructors,etc), inheritance, shallow vs depp cloning, type coercion; 
 
 ES7 (includes() on strings & arrays, exponential operator)
@@ -9,6 +12,10 @@ ES10 (flat(), flatMap(), trimStart(), trimEnd(), fromEntries(), try/catch)
 Advanced Loops (for of, for in (enumerating for objects))
 ES2020 (BigInt, Nullish Coalescing Operation, Optional Chaining Operations, --> for later: Promise:allSettled, globalThis)
 ES2021 (replaceAll())
+ES2022 (at() --> others for later)
+Debugging (console.log, debugger)
+Memory leaks, Memory heap, call stack, first In last out (FILO), Last In First Out (LIFO), single thread but non-blocking, syn vs asyn code, global variables are bad bc if u dont clean them up (forget about them and they are useless) they fill up the memory heap, Recursion (a function that calls itself) --> can lead to stack overflow
+Modules
 
 Day 16, April 30 2023
 
