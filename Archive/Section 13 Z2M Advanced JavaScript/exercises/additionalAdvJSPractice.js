@@ -27,3 +27,28 @@ let sorted = (arr) => {
 
 let output = sorted(array);
 console.log(output);
+
+//Question 2
+//Plan
+// Maybe use a nested loop
+
+let array = [1, 2, 3];
+
+let sumOfTwoEqualTarget = (arr, target) => {
+    let result = [];
+    for (let i = 0; i < arr.length; i++) {
+      for (let j = 1; j < arr.length; j++) {
+        if (arr[i] + arr[j] === target) {
+          result = [arr[i], arr[j]];
+        }
+      }
+    }
+    return result;
+}
+
+  let output = sumOfTwoEqualTarget(array, 4)
+
+  //Question 3
+  // Plan 
+  
+  
