@@ -1,9 +1,9 @@
 // Exercise 1: what do you think the MIN_SAFE_INTEGER is?
 console.log(Number.MAX_SAFE_INTEGER)
-console.log(Number.MIN_SAFE_INTEGER)
+console.log(Number.MIN_SAFE_INTEGER) // opposite of max safe
 
 // Exercise 2: why does this throw an error? How can you fix it?
-3 + 4 + 1n
+3 + 4 + 1n // add n after each --> 3n + 4n + 1n
 
 // Exercise 3: Clean up this code using optional chaining
 let will_pokemon = {
@@ -40,10 +40,14 @@ if (andrei_pokemon && andrei_pokemon.raichu && will_pokemon
         console.log('walk away...')
     }
 
+if (andrei_pokemon?.raichu && will_pokemon?.pikachu?.friend?.charizard) {
+    console.log('fight!')
+    } else console.log("walk away");
+
 
 // Exercise 4: What do these each output?
-console.log(false ?? 'hellooo')
-console.log(null ?? 'hellooo')
-console.log(null || 'hellooo')
-console.log((false || null) ?? 'hellooo')
-console.log(null ?? (false || 'hellooo'))
+console.log(false ?? 'hellooo') // false
+console.log(null ?? 'hellooo') // hellooo
+console.log(null || 'hellooo') // hellooo
+console.log((false || null) ?? 'hellooo') // hellooo
+console.log(null ?? (false || 'hellooo')) // hellooo
