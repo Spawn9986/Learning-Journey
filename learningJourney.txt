@@ -1,12 +1,13 @@
 Day 17, May 1 2023
 
-learned more Adv JS concepts: object oriented programming, reference type (pass by reference vs pass by value), context vs scope (this), instantiation (classes, constructors,etc), inheritance, shallow vs depp cloning, type coercion; 
+learned more Adv JS concepts: destructuring, object oriented programming, reference type (pass by reference vs pass by value), context vs scope (this), instantiation (classes, constructors,etc), inheritance, shallow vs depp cloning, type coercion; 
 
 ES7 (includes() on strings & arrays, exponential operator)
 ES8 (string padding, object.value, object.entries), Async/ Await
 ES9 + ES8 Async await (save for later)
 ES10 (flat(), flatMap(), trimStart(), trimEnd(), fromEntries(), try/catch)
 Advanced Loops (for of, for in (enumerating for objects))
+ES2020 (BigInt, Nullish Coalescing Operation, Optional Chaining Operations, --> for later: Promise:allSettled, globalThis)
 
 Day 16, April 30 2023
 
