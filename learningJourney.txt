@@ -3,7 +3,7 @@ Day 18, May 2 2023
 Finished Section 15 (Developer Environment)
 Finished Section 16 (Git + Github + Open Source Projects)
 Finished Section 17 (A Day in the life of a Developer)
-Started Section 18 (Introduction to NPM)
+finsihed Section 18 (Introduction to NPM)
 
 Day 17, May 1 2023
 
