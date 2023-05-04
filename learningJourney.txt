@@ -1,9 +1,16 @@
+Day 19, May 3 2023
+
+Blue Ocean Day 2: team of six building an Instructor Hub/ dashboard to help instructors keep track of cohort and individual student progress
+Started Section 19 Z2M (React.js, Teact Hooks, Redux) 
+
 Day 18, May 2 2023
 
-Finished Section 15 (Developer Environment)
-Finished Section 16 (Git + Github + Open Source Projects)
-Finished Section 17 (A Day in the life of a Developer)
-finsihed Section 18 (Introduction to NPM)
+Blue Ocean Project kickoff (Team of 6). We will be building an Instructor Hub for our client.
+
+Finished Section 15 Z2M (Developer Environment)
+Finished Section 16 Z2M (Git + Github + Open Source Projects)
+Finished Section 17 Z2M (A Day in the life of a Developer)
+finsihed Section 18 Z2M (Introduction to NPM)
 
 Day 17, May 1 2023
 
