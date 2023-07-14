@@ -19,5 +19,9 @@
 
 Technologies used in the project:
 
-*   CSS Flexbox
-*   CSS Grids
+- CSS Flexbox
+- CSS Grids
+
+<h2>👨‍💻 See More</h2>
+
+<a href="https://studio.youtube.com/video/TIHRpAlgID8/edit">Video Demo</a>
