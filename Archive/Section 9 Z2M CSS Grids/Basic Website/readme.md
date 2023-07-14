@@ -24,4 +24,4 @@ Technologies used in the project:
 
 <h2>👨‍💻 See More</h2>
 
-<a href="https://studio.youtube.com/video/TIHRpAlgID8/edit">Video Demo</a>
+<a href="https://www.youtube.com/watch?v=TIHRpAlgID8&ab_channel=ShawnC">Video Demo</a>
